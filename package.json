@@ -1,0 +1,12 @@
+{
+  "name": "mc-master",
+  "version": "1.0.0",
+  "main": "master.js",
+  "scripts": {
+    "start": "node master.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
